@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">rgtg</string>
+    <string name="quote1">Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.</string>
+    <string name="author1">Albert Einstein</string>
+
+    <string name="quote2">Be the change that you wish to see in the world.</string>
+    <string name="author2">Mahatma Gandhi</string>
+
+    <string name="quote3">I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character.</string>
+    <string name="author3">Martin Luther King Jr.</string>
+
+    <string name="quote4">Be yourself; everyone else is already taken.</string>
+    <string name="author4">Oscar Wilde</string>
+
+    <string name="quote5">To be, or not to be, that is the question.</string>
+    <string name="author5">William Shakespeare</string>
+
+    <string name="quote6">That which does not kill us makes us stronger.</string>
+    <string name="author6">Friedrich Nietzsche</string>
+
+    <string name="quote7">I have learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.</string>
+    <string name="author7">Maya Angelou</string>
+
+    <string name="quote8">The two most important days in your life are the day you are born and the day you find out why.</string>
+    <string name="author8">Mark Twain</string>
+
+    <string name="quote9">Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.</string>
+    <string name="author9">Steve Jobs</string>
+
+    <string name="quote10">Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.</string>
+    <string name="author10">Marie Curie</string>
+
+</resources>
+
